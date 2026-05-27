@@ -9,3 +9,5 @@ Nu contine codul aplicatiei Pui de Drag.
 Installer Windows:
 
 `PuiDeDragPrintAgentSetup.exe`
+
+Versiune curenta: `0.1.6`
