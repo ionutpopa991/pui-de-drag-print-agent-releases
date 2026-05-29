@@ -10,4 +10,4 @@ Installer Windows:
 
 `PuiDeDragPrintAgentSetup.exe`
 
-Versiune curenta: `0.1.15`
+Versiune curenta: `0.1.16`
