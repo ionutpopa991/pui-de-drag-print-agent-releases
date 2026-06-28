@@ -6,7 +6,11 @@ Nu contine codul aplicatiei Pui de Drag.
 
 ## Descarcare
 
-Installer Windows:
+Installer Windows curent:
+
+`PuiDeDragPrintAgentSetup-0.1.17.exe`
+
+Installer Windows compatibil:
 
 `PuiDeDragPrintAgentSetup.exe`
 
